@@ -23,3 +23,6 @@ _Checkout, tela de produto, catalogo, **home com banner**_
 **** Imagem local:
 
 ![logo do python](img/python.webp)
+
+**** Imagem externa:
+![logo do PHP](https://pt.wikipedia.org/wiki/Ficheiro:PHP-logo.svg)
