@@ -19,3 +19,7 @@ _Checkout, tela de produto, catalogo, **home com banner**_
     3. CSS diferente para grupo de clientes;
 2. Integracao com outros pagamentos;
 3. Sistema de bonus da primeira compra;
+
+**** Imagem local:
+
+![logo do python](img/python.webp)
