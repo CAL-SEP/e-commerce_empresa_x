@@ -10,3 +10,9 @@ _Checkout, tela de produto, catalogo, **home com banner**_
 * Javascript
 * PHP
 * MySql
+
+*** Funcionalidades a desenvolver:
+
+1. Area de membros;
+2. Integracao com outros pagamentos;
+3. Sistema de bonus da primeira compra;
