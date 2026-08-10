@@ -42,3 +42,9 @@ function soma(a,b){
     return a + b
 }
 '''
+
+## lista de tarefas a fazer:
+- [ x ] area de membros;
+- [ ] integracao com outros pagamentos;
+- [ ] Sistema de bonus;
+- [ ] CSS do rodape;
