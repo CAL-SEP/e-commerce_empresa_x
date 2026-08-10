@@ -33,3 +33,5 @@ _Checkout, tela de produto, catalogo, **home com banner**_
 [https://www.google.com](https://www.google.com)
 
 Contribuidor principal: https://www.github.com/CAL-SEP
+
+[![logo do python](img/python.webp)](https://www.github.com/CAL-SEP)
