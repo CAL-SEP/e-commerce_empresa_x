@@ -35,3 +35,10 @@ _Checkout, tela de produto, catalogo, **home com banner**_
 Contribuidor principal: https://www.github.com/CAL-SEP
 
 [![logo do python](img/python.webp)](https://www.github.com/CAL-SEP)
+
+## codigo da funcao soma
+'''javascript
+function soma(a,b){
+    return a + b
+}
+'''
