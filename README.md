@@ -31,3 +31,5 @@ _Checkout, tela de produto, catalogo, **home com banner**_
 [Google](https://www.google.com)
 
 [https://www.google.com](https://www.google.com)
+
+Contribuidor principal: https://www.github.com/CAL-SEP
