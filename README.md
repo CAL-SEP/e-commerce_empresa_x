@@ -29,3 +29,5 @@ _Checkout, tela de produto, catalogo, **home com banner**_
 
 ## Links interessantes:
 [Google](https://www.google.com)
+
+[https://www.google.com](https://www.google.com)
