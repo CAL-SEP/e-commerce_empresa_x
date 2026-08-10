@@ -26,3 +26,6 @@ _Checkout, tela de produto, catalogo, **home com banner**_
 
 **** Imagem externa:
 ![logo do PHP](https://pt.wikipedia.org/wiki/Ficheiro:PHP-logo.svg)
+
+## Links interessantes:
+[Google](https//www.google.com)
